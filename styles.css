@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900&display=swap');
+
+body{
+    font-family: 'Nunito Sans',sans-serif;
+    font-style: normal;
+    overflow-x: hidden;
+    margin: 0%;
+
+
+}
+
+header{
+    background-color:white;
+    padding-inline: 30px;    display:  flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline: 85px;
+    position: relative;
+    top: 100px;
+
+    height: 100px;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    position: relative;
+    ri/* ght: 80px;
+ */
+}
+.navbar a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+
+}
+.first-section{
+    background-image: url(../Careerconnect/img/image-from-rawpixel-id-5921591-original.jpg);
+    background-size: cover;
+    width: auto;
+    height: 625px;
+    position: relative;
+
+
+}
+
+.welcome h1{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 250px;
+    text-align: center; 
+}
+
+.welcome1{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: -40px;
+    text-align: center;
+}
